@@ -6,6 +6,7 @@ Systems Engineer
 
 Being part of a work team and consolidating myself professionally where personal achievements and performance are for the benefit of the company, in addition to allowing opportunities for personal and professional development.
 
+---
 ### Skills
 
 
@@ -22,7 +23,7 @@ Being part of a work team and consolidating myself professionally where personal
 <a href="https://gist.github.com/dasdo/9ff71c5c0efa037441b6" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a>                 
 </p>
 
-
+---
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/EOOA10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/edison-ordoñez-4a2b41234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
