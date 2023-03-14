@@ -3,10 +3,6 @@ Hi 👋 My name is Edison Ordoñez
 
 Systems Engineer
 ----------------
-
-Being part of a work team and consolidating myself professionally where personal achievements and performance are for the benefit of the company, in addition to allowing opportunities for personal and professional development.
-
----
 ### Skills
 
 
